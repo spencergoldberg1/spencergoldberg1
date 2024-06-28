@@ -36,9 +36,10 @@ A personal portfolio website built with React, showcasing my projects, skills, a
 
 ## 📈 GitHub Stats
 
-![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=radical)
+![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues&token=YOUR_GITHUB_TOKEN)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=radical&count_private=true&token=YOUR_GITHUB_TOKEN)
+
 
 ## 📫 How to Reach Me
 

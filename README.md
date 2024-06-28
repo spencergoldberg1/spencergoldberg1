@@ -4,6 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/spencergoldberg/)](https://www.linkedin.com/in/spencergoldberg/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/spencergoldberg)](https://twitter.com/spencergoldberg)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://spencergoldberg.com)](https://spencergoldberg.com)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=spencergoldberg1.spencergoldberg1)
 
 ## About Me
 
@@ -39,6 +40,14 @@ A personal portfolio website built with React, showcasing my projects, skills, a
 ![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues&token=YOUR_GITHUB_TOKEN)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=radical&count_private=true&token=YOUR_GITHUB_TOKEN)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=spencergoldberg1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Spencer's github activity graph](https://activity-graph.herokuapp.com/graph?username=spencergoldberg1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=spencergoldberg1&theme=radical)](https://git.io/streak-stats)
+
+![Metrics](https://github.com/spencergoldberg1/spencergoldberg1/blob/main/github-metrics.svg)
 
 ## 📫 How to Reach Me
 

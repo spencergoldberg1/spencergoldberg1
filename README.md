@@ -40,7 +40,6 @@ A personal portfolio website built with React, showcasing my projects, skills, a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=radical&count_private=true&token=YOUR_GITHUB_TOKEN)
 
-
 ## 📫 How to Reach Me
 
 - **Email:** spencer@spencergoldberg.com

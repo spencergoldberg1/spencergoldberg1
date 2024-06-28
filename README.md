@@ -1,6 +1,6 @@
 # 💼 Spencer Goldberg
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/spencergoldberg)](https://github.com/spencergoldberg)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/spencergoldberg1)](https://github.com/spencergoldberg1)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/spencergoldberg/)](https://www.linkedin.com/in/spencergoldberg/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/spencergoldberg)](https://twitter.com/spencergoldberg)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://spencergoldberg.com)](https://spencergoldberg.com)
@@ -25,20 +25,20 @@
 
 ## 🌟 Featured Projects
 
-### [Project 1: HoloTask](https://github.com/spencergoldberg/holotask)
+### [Project 1: HoloTask](https://github.com/spencergoldberg1/holotask)
 A Swift-based project management app designed to streamline team collaboration and task management. It features workspace invitations, real-time updates, and offline support.
 
-### [Project 2: Flask API](https://github.com/spencergoldberg/flask-api)
+### [Project 2: Flask API](https://github.com/spencergoldberg1/flask-api)
 A robust Flask API designed to handle various endpoints for different functionalities, with secure authentication and database integration.
 
-### [Project 3: Portfolio Website](https://github.com/spencergoldberg/portfolio)
+### [Project 3: Portfolio Website](https://github.com/spencergoldberg1/portfolio)
 A personal portfolio website built with React, showcasing my projects, skills, and experience. It includes a blog section for sharing insights and articles.
 
 ## 📈 GitHub Stats
 
-![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencergoldberg&show_icons=true&theme=radical)
+![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 

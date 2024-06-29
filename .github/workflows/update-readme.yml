@@ -27,9 +27,9 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}  # Using GH_TOKEN for checkout
           fetch-depth: 0  # Fetches all history for all branches and tags
-    
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
@@ -40,7 +40,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+           GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Environment variable for generating snake
 
       - name: Show build status
         run: git status
@@ -52,4 +52,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Mapping GH_TOKEN to GITHUB_TOKEN for GitHub Pages deployment

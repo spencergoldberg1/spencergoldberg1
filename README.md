@@ -1,82 +1,76 @@
-# 💼 Spencer Goldberg
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/spencergoldberg1)](https://github.com/spencergoldberg1)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/spencergoldberg/)](https://www.linkedin.com/in/spencergoldberg/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/spencergoldberg)](https://twitter.com/spencergoldberg)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://spencergoldberg.com)](https://spencergoldberg.com)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=spencergoldberg1.spencergoldberg1)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-## About Me
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-👋 Hi there! I'm Spencer Goldberg, a passionate software engineer specializing in web development, mobile app development, and cloud solutions. I enjoy creating innovative and efficient solutions to complex problems. My goal is to make a positive impact through technology.
+<br/>
 
-## 🔧 Technologies & Tools
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-## 🌟 Featured Projects
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-### [Project 1: HoloTask](https://github.com/spencergoldberg1/holotask)
-A Swift-based project management app designed to streamline team collaboration and task management. It features workspace invitations, real-time updates, and offline support.
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-### [Project 2: Flask API](https://github.com/spencergoldberg1/flask-api)
-A robust Flask API designed to handle various endpoints for different functionalities, with secure authentication and database integration.
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-### [Project 3: Portfolio Website](https://github.com/spencergoldberg1/portfolio)
-A personal portfolio website built with React, showcasing my projects, skills, and experience. It includes a blog section for sharing insights and articles.
+<br/>
+<hr/>
 
-## 📈 GitHub Stats
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues&token=YOUR_GITHUB_TOKEN)
+<hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=radical&count_private=true&token=YOUR_GITHUB_TOKEN)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spencergoldberg1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/><br/>
 
-[![Spencer's github activity graph](https://activity-graph.herokuapp.com/graph?username=spencergoldberg1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=spencergoldberg1&theme=radical)](https://git.io/streak-stats)
+<br/>
 
-![Metrics](https://github.com/spencergoldberg1/spencergoldberg1/blob/main/github-metrics.svg)
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-## 📫 How to Reach Me
-
-- **Email:** spencer@spencergoldberg.com
-- **LinkedIn:** [linkedin.com/in/spencergoldberg](https://www.linkedin.com/in/spencergoldberg/)
-- **Twitter:** [twitter.com/spencergoldberg](https://twitter.com/spencergoldberg)
-
-## 📝 Latest Blog Posts
-
-- [Post Title 1](https://spencergoldberg.com/blog/post-title-1)
-- [Post Title 2](https://spencergoldberg.com/blog/post-title-2)
-- [Post Title 3](https://spencergoldberg.com/blog/post-title-3)
-
-## 🎓 Education
-
-- **Bachelor of Science in Computer Science**
-  - University of Technology, Class of 2023
-  - GPA: 3.8/4.0
-
-## 🏆 Achievements
-
-- **Winner:** Hackathon 2023 - Developed an AI-powered chatbot for mental health support.
-- **Certification:** AWS Certified Solutions Architect
-- **Award:** Dean's List - Recognized for academic excellence
-
-## 🤝 Let's Connect
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me!
-
----
-
-*Thank you for visiting my GitHub profile! Have a great day!* 😊
+<br/>

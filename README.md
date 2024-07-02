@@ -42,6 +42,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 
 Feel free to reach out or connect with me:
-- 🌐 Website: [spencergoldberg.com](https://spencergoldberg.com)
-- 📞 LinkedIn: [Connect with me](https://www.linkedin.com/in/spencermgoldberg/)
+- 🌐 Website: <a href="https://spencergoldberg.com" target="_blank">spencergoldberg.com</a>
+- 📞 LinkedIn: <a href="https://www.linkedin.com/in/spencermgoldberg/" target="_blank">Connect with me</a>
 

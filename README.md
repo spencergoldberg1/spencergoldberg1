@@ -43,4 +43,4 @@
 
 Feel free to reach out or connect with me:
 - 📧 Email: [spencer.goldberg@email.com](mailto:spencer.goldberg@email.com)
-- 📞 LinkedIn: [Connect with me](https://www.linkedin.com/in/spencergoldberg/)
+- 📞 LinkedIn: [Connect with me](https://www.linkedin.com/in/spencermgoldberg/)

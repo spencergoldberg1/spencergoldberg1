@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Spencer Goldberg!
 
 🔍 I'm a Software Engineer specializing in app development and cloud solutions.<br/>
-🎓 Graduated with a degree in Computer Science from the University of Michigan.<br/>
+🎓 Graduated with a degree in Computer Science from Florida Atlantic University.<br/>
 🌱 I’m currently focused on full-stack development and UI/UX design.<br/>
 📚 Dive into my tech blog [here](https://spencergoldberg.com/blog) for insights and tutorials.<br/>
 🎥 Also, catch my tech journey and tutorials on [YouTube](https://www.youtube.com/channel/UCyourChannelID).<br/>

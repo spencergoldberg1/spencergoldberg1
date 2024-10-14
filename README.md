@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Spencer Goldberg!
 
 🔍 I'm a Software Engineer specializing in app development and cloud solutions.<br/>
-🎓 Graduated with a degree in Computer Science from Florida Atlantic University.<br/>
-🌱 I’m currently focused on full-stack development and UI/UX design.<br/>
-📚 Dive into my tech blog [here](https://spencergoldberg.com/blog) for insights and tutorials.<br/>
-🎥 Also, catch my tech journey and tutorials on [YouTube](https://www.youtube.com/channel/UCyourChannelID).<br/>
+🎓 Studying Data Science and AI from Florida Atlantic University.<br/>
+🌱 I’m currently focused on full-stack development App Development.<br/>
+📚 Check out more on my projcts [here](https://spencergoldberg.com/blog).<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spencergoldberg1&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>

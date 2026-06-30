@@ -1,81 +1,110 @@
-# Hi, I'm Spencer Goldberg
+<div align="center">
 
-**Full-Stack Engineer · Blockchain Developer · AI/ML Systems · Salesforce ISV**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Spencer+%F0%9F%91%8B;I+build+things+end-to-end;Full-Stack+%E2%80%A2+Web3+%E2%80%A2+AI%2FML+%E2%80%A2+iOS;From+idea+to+production." alt="Typing SVG" />
 
-[🌐 Portfolio](https://spencergoldberg.com) · [💼 LinkedIn](https://www.linkedin.com/in/spencermgoldberg/) · [🏢 Devconex](https://devconex.com)
+<br/><br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-spencergoldberg.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://spencergoldberg.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-spencermgoldberg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencermgoldberg/)
+[![DevConex](https://img.shields.io/badge/Agency-devconex.com-6e40c9?style=for-the-badge&logo=shopify&logoColor=white)](https://devconex.com)
+[![Email](https://img.shields.io/badge/Email-spencer%40devconex.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer@devconex.com)
 
-## About
+<br/>
 
-Full-Stack Software Engineer and Blockchain Developer with production experience across **enterprise Salesforce integrations**, **Web3 payment infrastructure**, **AI/ML systems**, and **native mobile development**. I specialize in building complex, scalable systems end-to-end — from low-level blockchain wallet infrastructure and on-chain payment flows to cloud-hosted ML pipelines and full-stack web applications.
+![Profile Views](https://komarev.com/ghpvc/?username=spencergoldberg1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-Currently leading development of the only Salesforce-native ISV blockchain payment product on AppExchange, while running [Devconex Tech Solutions](https://devconex.com) — a software development agency building full-stack apps and custom software products for startups and businesses.
-
-- 🎓 B.S. Data Science & Analytics, Minor in Artificial Intelligence — Florida Atlantic University, **Summa Cum Laude**
-- 🔗 **Lead Developer @ Web3 Enabler** — Salesforce-native blockchain payment ISV, live on AppExchange
-- 🏢 **Founder @ Devconex Tech Solutions** — full-stack agency for startups and businesses
-- ⛓️ Shipped programmable **Cardano** and **XRP Ledger** wallet infrastructure from seed phrase to UTXO derivation
-- 🤖 Building **ML infrastructure** — TensorFlow GPU pipelines, cloud-hosted model endpoints, AI-powered data systems
-- 📱 Shipped iOS apps to the App Store — Swift, SwiftUI, Firebase
+</div>
 
 ---
 
-## Tech Stack
+## ð§âð» Who I Am
+
+I'm a full-stack engineer who builds across the entire stack â web, mobile, blockchain, and AI/ML. I care about clean architecture, real production quality, and shipping things that actually work at scale.
+
+I'm most engaged when the problem is genuinely hard: wiring on-chain blockchain data into enterprise Salesforce systems, building programmable wallet infrastructure from seed phrase to UTXO, or architecting a clinical dashboard that processes live sensor data from IoT hardware. Give me a complex system to design and I'll build it end-to-end.
+
+Currently leading blockchain payment infrastructure at **[Web3 Enabler](https://web3enabler.com)** â the only Salesforce-native ISV on AppExchange â while running **[DevConex Tech Solutions](https://devconex.com)**, my software development agency, where I build custom full-stack products for startups and businesses.
+
+---
+
+## â¡ What I'm Focused On
+
+- ð **Enterprise blockchain** â Salesforce-native payment infrastructure selected by Circle, Ripple & Cardano
+- ð¢ **DevConex** â delivering full-stack web, mobile, Web3, and AI-powered products for clients
+- ð¤ **AI/ML systems** â TensorFlow GPU pipelines, cloud-hosted model endpoints, AI-driven automation
+- âï¸ **Deep Web3** â programmable Cardano & XRP Ledger wallet infrastructure, EVM/UTXO networks
+- ð± **Mobile** â SwiftUI iOS apps shipped to the App Store
+
+---
+
+## ð ï¸ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,swift,solidity&theme=dark)](https://skillicons.dev)
+
+&nbsp;
 
 **Frameworks & Platforms**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,tensorflow&theme=dark)](https://skillicons.dev)
+
+&nbsp;
+
+**Salesforce Ecosystem**
+
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![AppExchange](https://img.shields.io/badge/AppExchange-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+&nbsp;
 
 **Blockchain & Web3**
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=ethereum&theme=dark)](https://skillicons.dev)
 ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
-![XRP](https://img.shields.io/badge/XRP_Ledger-346AA9?style=for-the-badge&logo=ripple&logoColor=white)
+![XRP Ledger](https://img.shields.io/badge/XRP_Ledger-346AA9?style=for-the-badge&logo=ripple&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Circle USDC](https://img.shields.io/badge/Circle_USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
 
-**Cloud, AI & Databases**
+&nbsp;
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+**Cloud & Databases**
 
----
+[![Skills](https://skillicons.dev/icons?i=gcp,firebase,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-## Experience
-
-**Lead Developer — Web3 Enabler** *(Jan 2024 – Present)*
-Building the only Salesforce-native ISV with 100% native blockchain payment infrastructure — live on AppExchange and selected by Circle, Ripple, and Cardano. Architected HD wallet infrastructure, WalletConnect integration, EVM/UTXO network support, and Bridge API liquidation flows.
-
-**Founder — Devconex Tech Solutions LLC** *(Current)*
-US-based software development agency delivering full-stack web and mobile products, Web3 integrations, Salesforce solutions, and custom software for startups and businesses across industries.
-
-**Full-Stack Developer — Olive Diagnostics** *(Jun – Jul 2023)*
-Built full-stack features for a health-tech startup developing the world's first 100% passive, non-invasive real-time urinalysis diagnostic sensor combining IoT and AI.
-
-**Lead iOS Developer — Cocobolo Group** *(Oct 2021 – May 2023)*
-Led iOS architecture and development for *Perfecti*, a restaurant technology platform connecting diners and servers in real time — shipped to the App Store across two published apps.
+</div>
 
 ---
 
-## Connect
+## ð GitHub Stats
 
-- **Portfolio:** https://spencergoldberg.com
-- **LinkedIn:** https://www.linkedin.com/in/spencermgoldberg/
-- **Agency:** https://devconex.com
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=spencergoldberg1&theme=github-dark-blue&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## ð¤ Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/ð_Portfolio-spencergoldberg.com-000?style=for-the-badge)](https://spencergoldberg.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencermgoldberg/)
+[![Agency](https://img.shields.io/badge/Agency-devconex.com-6e40c9?style=for-the-badge)](https://devconex.com)
+[![Email](https://img.shields.io/badge/Email-spencer%40devconex.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer@devconex.com)
+
+</div>

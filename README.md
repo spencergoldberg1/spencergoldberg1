@@ -83,10 +83,6 @@ I'm most engaged on hard problems: designing systems that have to work at scale,
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spencergoldberg1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/spencergoldberg1)
-
-<br/><br/>
-
 ![Followers](https://img.shields.io/github/followers/spencergoldberg1?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/spencergoldberg1?style=for-the-badge&logo=github&label=Stars&color=FF6500&labelColor=0d1117)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fspencergoldberg1&query=%24.public_repos&style=for-the-badge&logo=github&label=Public+Repos&color=3fb950&labelColor=0d1117)

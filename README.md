@@ -1,43 +1,49 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Spencer+%F0%9F%91%8B;I+build+things+end-to-end;Full-Stack+%E2%80%A2+Web3+%E2%80%A2+AI%2FML+%E2%80%A2+iOS;From+idea+to+production." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Spencer+%F0%9F%91%8B;I+build+products+end-to-end;Founder+of+DevConex+Tech+Solutions;Full-Stack+%E2%80%A2+Web3+%E2%80%A2+AI%2FML+%E2%80%A2+iOS" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-spencergoldberg.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://spencergoldberg.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-spencermgoldberg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencermgoldberg/)
-[![DevConex](https://img.shields.io/badge/Agency-devconex.com-6e40c9?style=for-the-badge&logo=shopify&logoColor=white)](https://devconex.com)
+[![DevConex](https://img.shields.io/badge/DevConex-devconex.com-FF6500?style=for-the-badge&logo=rocket&logoColor=white)](https://devconex.com)
 [![Email](https://img.shields.io/badge/Email-spencer%40devconex.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer@devconex.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=spencergoldberg1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=spencergoldberg1&color=FF6500&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## ð§âð» Who I Am
+## :technologist: Who I Am
 
-I'm a full-stack engineer who builds across the entire stack â web, mobile, blockchain, and AI/ML. I care about clean architecture, real production quality, and shipping things that actually work at scale.
+I'm a full-stack engineer and founder who builds across the entire stack — web, mobile, blockchain, and AI/ML. I care deeply about clean architecture, real production quality, and shipping software that actually holds up.
 
-I'm most engaged when the problem is genuinely hard: wiring on-chain blockchain data into enterprise Salesforce systems, building programmable wallet infrastructure from seed phrase to UTXO, or architecting a clinical dashboard that processes live sensor data from IoT hardware. Give me a complex system to design and I'll build it end-to-end.
+I run **[DevConex Tech Solutions](https://devconex.com)** — a software development agency where I take products from zero to launch for startups and businesses. Whether it's a full-stack web app, a mobile product, a custom AI integration, or a complex backend system, I own the full build end-to-end.
 
-Currently leading blockchain payment infrastructure at **[Web3 Enabler](https://web3enabler.com)** â the only Salesforce-native ISV on AppExchange â while running **[DevConex Tech Solutions](https://devconex.com)**, my software development agency, where I build custom full-stack products for startups and businesses.
+I'm most engaged on hard problems: designing systems that have to work at scale, integrating emerging tech into real production environments, and building things that didn't exist before.
 
----
-
-## â¡ What I'm Focused On
-
-- ð **Enterprise blockchain** â Salesforce-native payment infrastructure selected by Circle, Ripple & Cardano
-- ð¢ **DevConex** â delivering full-stack web, mobile, Web3, and AI-powered products for clients
-- ð¤ **AI/ML systems** â TensorFlow GPU pipelines, cloud-hosted model endpoints, AI-driven automation
-- âï¸ **Deep Web3** â programmable Cardano & XRP Ledger wallet infrastructure, EVM/UTXO networks
-- ð± **Mobile** â SwiftUI iOS apps shipped to the App Store
+- :mortar_board: **B.S. Data Science & Analytics, Minor in AI** — Florida Atlantic University, *Summa Cum Laude*
+- :office: **Founder & CEO @ [DevConex Tech Solutions](https://devconex.com)** — software agency for startups and businesses
+- :link: **Lead Developer @ [Web3 Enabler](https://web3enabler.com)** — blockchain payment infrastructure on Salesforce AppExchange
+- :iphone: Shipped **iOS apps** to the App Store — SwiftUI, 5.0 :star: rating in Food & Drink
+- :robot: Building **AI/ML systems** — GPU pipelines, cloud-hosted model endpoints, data automation
+- :chains: Shipped programmable **Cardano** and **XRP Ledger** wallet infrastructure in production
 
 ---
 
-## ð ï¸ Tech Stack
+## :zap: What I'm Building
+
+- :office: **DevConex** — delivering full-stack web, mobile, and AI-powered products for clients end-to-end
+- :globe_with_meridians: **Full-stack web apps** — React, Next.js, Node.js, TypeScript, from concept to deployment
+- :iphone: **Mobile apps** — SwiftUI iOS products shipped to the App Store
+- :robot: **AI/ML integrations** — custom pipelines, automation, and AI-driven product features
+- :chains: **Web3 & blockchain** — on-chain payment infrastructure, wallet systems, enterprise integrations
+
+---
+
+## :hammer_and_wrench: Tech Stack
 
 <div align="center">
 
@@ -49,17 +55,7 @@ Currently leading blockchain payment infrastructure at **[Web3 Enabler](https://
 
 **Frameworks & Platforms**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,tensorflow&theme=dark)](https://skillicons.dev)
-
-&nbsp;
-
-**Salesforce Ecosystem**
-
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![AppExchange](https://img.shields.io/badge/AppExchange-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,tensorflow.theme=dark)](https://skillicons.dev)
 
 &nbsp;
 
@@ -68,8 +64,7 @@ Currently leading blockchain payment infrastructure at **[Web3 Enabler](https://
 [![Skills](https://skillicons.dev/icons?i=ethereum&theme=dark)](https://skillicons.dev)
 ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
 ![XRP Ledger](https://img.shields.io/badge/XRP_Ledger-346AA9?style=for-the-badge&logo=ripple&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Circle USDC](https://img.shields.io/badge/Circle_USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
 
 &nbsp;
@@ -82,7 +77,7 @@ Currently leading blockchain payment infrastructure at **[Web3 Enabler](https://
 
 ---
 
-## ð GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
@@ -98,13 +93,12 @@ Currently leading blockchain payment infrastructure at **[Web3 Enabler](https://
 
 ---
 
-## ð¤ Connect
+## :handshake: Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/ð_Portfolio-spencergoldberg.com-000?style=for-the-badge)](https://spencergoldberg.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencermgoldberg/)
-[![Agency](https://img.shields.io/badge/Agency-devconex.com-6e40c9?style=for-the-badge)](https://devconex.com)
+[![DevConex](https://img.shields.io/badge/DevConex-devconex.com-FF6500?style=for-the-badge&logo=rocket&logoColor=white)](https://devconex.com)
 [![Email](https://img.shields.io/badge/Email-spencer%40devconex.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer@devconex.com)
 
 </div>

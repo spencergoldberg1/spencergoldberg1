@@ -49,29 +49,31 @@ I'm most engaged on hard problems: designing systems that have to work at scale,
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,python,swift,solidity&theme=dark)](https://skillicons.dev)
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,swift,solidity&theme=dark" /></a></p>
 
 &nbsp;
 
 **Frameworks & Platforms**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,tensorflow.theme=dark)](https://skillicons.dev)
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind&theme=dark" /></a></p>
 
 &nbsp;
 
 **Blockchain & Web3**
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
-![XRP Ledger](https://img.shields.io/badge/XRP_Ledger-346AA9?style=for-the-badge&logo=ripple&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white" />
+<img src="https://img.shields.io/badge/XRP_Ledger-346AA9?style=for-the-badge&logo=ripple&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" />
+</p>
 
 &nbsp;
 
 **Cloud & Databases**
 
-[![Skills](https://skillicons.dev/icons?i=gcp,firebase,postgres,mongodb&theme=dark)](https://skillicons.dev)
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,firebase,postgres,mongodb&theme=dark" /></a></p>
 
 </div>
 
@@ -81,9 +83,13 @@ I'm most engaged on hard problems: designing systems that have to work at scale,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=github_dark&hide_border>true&langs_count=8&hide=jupyter%20notebook" height="175"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=spencergoldberg1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/spencergoldberg1)
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/spencergoldberg1?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/spencergoldberg1?style=for-the-badge&logo=github&label=Stars&color=FF6500&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fspencergoldberg1&query=%24.public_repos&style=for-the-badge&logo=github&label=Public+Repos&color=3fb950&labelColor=0d1117)
 
 </div>
 

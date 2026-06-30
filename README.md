@@ -61,7 +61,7 @@ I'm most engaged on hard problems: designing systems that have to work at scale,
 
 **Blockchain & Web3**
 
-[![Skills](https://skillicons.dev/icons?i=ethereum&theme=dark)](https://skillicons.dev)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
 ![XRP Ledger](https://img.shields.io/badge/XRP_Ledger-346AA9?style=for-the-badge&logo=ripple&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -81,13 +81,9 @@ I'm most engaged on hard problems: designing systems that have to work at scale,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=spencergoldberg1&theme=github-dark-blue&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=spencergoldberg1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencergoldberg1&layout=compact&theme=github_dark&hide_border>true&langs_count=8&hide=jupyter%20notebook" height="175"/>
 
 </div>
 

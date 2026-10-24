@@ -1,18 +1,19 @@
 # Spencer Goldberg
 
-Backend and full-stack engineer working in Node.js, TypeScript, and Python, with a focus on APIs, third-party integrations, and applied AI/ML. Founder of [DevConex Tech Solutions](https://devconex.com), a custom software consultancy in Boca Raton, FL.
+Software engineer focused on backend systems, cloud infrastructure, and AI. Node.js, Python, and PostgreSQL on AWS and GCP. Founder of [DevConex Tech Solutions](https://devconex.com), based in Boca Raton, FL.
 
 ## Experience
 
-- **Founder and CEO, DevConex Tech Solutions.** Full-stack web, mobile, and AI work for startups and small businesses, from architecture through deployment.
-- **Lead Developer, Web3 Enabler (previous role, from January 2024).** Node.js backend for Salesforce-native blockchain integrations on AppExchange, including programmable Cardano and XRP Ledger wallet infrastructure. Lightning Web Components served only as the Salesforce-side frontend wrapper.
+- **Founder, DevConex Tech Solutions.** Scopes and builds custom web, mobile, and AI software for startups and small businesses.
+- **Lead Developer, Web3 Enabler (previous role, from January 2024).** Took Blockchain Payments from proof of concept to the MVP live on the Salesforce AppExchange. Architected the blockchain- and wallet-agnostic Node.js backend, built wallet on/off-ramp flows on Bridge (a Stripe company), and integrated Circle's API for managed wallets native to Salesforce. Also built programmable Cardano and XRP Ledger wallet infrastructure.
+- **Earlier.** Built the patient data pipeline for Olive Diagnostics' non-invasive urinalysis device. Shipped two iOS apps to the App Store for Cocobolo Group.
 
-## Focus
+## What I work on
 
-- Backend services and APIs: Node.js, TypeScript, PostgreSQL
-- Integrations: Salesforce/Apex, wallet and payment infrastructure, third-party APIs
-- Data science and ML pipelines in Python
-- iOS apps in SwiftUI
+- **Backend:** Node.js and Express services, REST APIs, webhooks, third-party integrations
+- **System design:** architecture, database schemas, and API selection before implementation
+- **Cloud and DevOps:** CI/CD, Docker, production deployment on GCP and AWS
+- **AI and data:** LLM integrations, data pipelines, machine learning
 
 ## Public work
 
@@ -28,8 +29,9 @@ Most of my backend work is client or employer code and is not public. These repo
 **Languages:** Python, TypeScript, JavaScript, Swift, Apex, Solidity
 **Backend and web:** Node.js, Express, React, Next.js
 **Data:** PostgreSQL, MongoDB, Firebase
-**Cloud:** Google Cloud Platform, AWS, Vercel
-**Blockchain:** Ethereum, Cardano, XRP Ledger, WalletConnect
+**Cloud and tooling:** AWS, Google Cloud Platform, Docker, GitHub Actions, Vercel
+**Integrations:** Bridge, Circle, Salesforce, OpenAI API, WalletConnect
+**Blockchain:** Ethereum, Cardano, XRP Ledger
 
 ## Education
 
